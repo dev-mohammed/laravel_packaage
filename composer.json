@@ -1,0 +1,15 @@
+{
+  "name": "adel/laravel_pakage",
+  "description": "An elegant markdown-powered blog for the Laravel framework",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "mohamed adel",
+      "email": "adel@buseet.com"
+    }
+  ],
+  "require": {},
+  "require-dev": {
+    "orchestra/testbench": "^3.7"
+  }
+}
